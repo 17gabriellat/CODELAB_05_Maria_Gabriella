@@ -58,7 +58,7 @@
             android:layout_height="wrap_content"
             android:layout_margin="16dp"
             android:text="@string/deskripsi"/>
-        
+
         <TableLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -140,26 +140,27 @@
                     android:layout_marginEnd="16dp"
                     android:text="Jl. Siwalankerto No. 121 - 131 \n Wonocolo, Surabaya, Jawa Timur, \n 60236"/>
             </TableRow>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="14sp"
+                android:textStyle="bold"
+                android:text="REKTOR"/>
         </TableLayout>
 
         <TableLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_margin="16dp">
+            android:layout_margin="8dp">
 
-            <TableRow
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_marginBottom="16dp">
+<!--            <TableRow-->
+<!--                android:layout_width="wrap_content"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:layout_marginBottom="16dp">-->
 
-                <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:textSize="14sp"
-                    android:layout_marginEnd="8dp"
-                    android:textStyle="bold"
-                    android:text="REKTOR"/>
-            </TableRow>
+<!--                -->
+<!--            </TableRow>-->
 
             <TableRow
                 android:layout_width="match_parent"
